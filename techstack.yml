@@ -1,12 +1,12 @@
 repo_name: oracle-suburb/knex
-report_id: 363fa1e1c01bb788a8c2b606c6a94d78
+report_id: 690dd97e82e36f46a23ee832bc7fcf05
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-04T12:51:55+00:00'
+timestamp: '2024-01-04T12:51:56+00:00'
 requested_by: bob-wise0
 provider: github
 branch: master
-detected_tools_count: 51
+detected_tools_count: 50
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -67,19 +67,6 @@ tools:
   detection_source: scripts/docker-compose.yml
   last_updated_by: Olivier Cavadenti
   last_updated_on: 2022-01-06 13:44:16.000000000 Z
-- name: Heroku Postgres
-  description: Heroku's Database-as-a-Service. Based on the most powerful open-source
-    database, PostgreSQL
-  website_url: https://www.heroku.com/postgres
-  open_source: false
-  hosted_saas: true
-  category: Data Stores
-  sub_category: PostgreSQL as a Service
-  image_url: https://img.stackshare.io/service/2516/original.png
-  detection_source_url: https://github.com/oracle-suburb/knex/blob/master/scripts/docker-compose.yml
-  detection_source: scripts/docker-compose.yml
-  last_updated_by: Igor Savin
-  last_updated_on: 2021-10-02 13:55:06.000000000 Z
 - name: MySQL
   description: The world's most popular open source database
   website_url: http://www.mysql.com
