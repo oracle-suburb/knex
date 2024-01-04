@@ -14,7 +14,6 @@ oracle-suburb/knex is built on the following main stack:
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [ESLint](http://eslint.org/) – Code Review
 - [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
@@ -42,7 +41,6 @@ oracle-suburb/knex is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
@@ -60,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [oracle-suburb/knex](https://github.com/oracle-suburb/knex)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|51<br/>Tools used|01/04/24 <br/>Report generated|
+|50<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -106,20 +104,12 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (5)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'>
   <br>
   <sub><a href="https://www.cockroachlabs.com/">CockroachDB</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'>
-  <br>
-  <sub><a href="https://www.heroku.com/postgres">Heroku Postgres</a></sub>
   <br>
   <sub></sub>
 </td>
