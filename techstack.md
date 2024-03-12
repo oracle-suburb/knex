@@ -3,24 +3,26 @@
 ## Tech Stack
 oracle-suburb/knex is built on the following main stack:
 
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [CockroachDB](https://www.cockroachlabs.com/) – Databases
+- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [MySQL](http://www.mysql.com) – Databases
 - [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
 - [PostgreSQL](http://www.postgresql.org/) – Databases
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Coveralls](https://coveralls.io/) – Code Coverage
 - [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- [Istio](https://istio.io/) – Microservices Tools
-- [Prettier](https://prettier.io/) – Code Review
-- [CockroachDB](https://www.cockroachlabs.com/) – Databases
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Istio](https://istio.io/) – Microservices Tools
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
+- [Windows Server ](https://www.microsoft.com/en-us/cloud-platform/windows-server) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -30,24 +32,26 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 oracle-suburb/knex is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'/> [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'/> [CockroachDB](https://www.cockroachlabs.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1026/jT-HJYJg.png' alt='Oracle'/> [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'/> [CockroachDB](https://www.cockroachlabs.com/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'/> [PonyDebugger](https://github.com/square/PonyDebugger) – Mobile Runtime Inspector
+- <img width='25' height='25' src='https://img.stackshare.io/service/5108/2bsDgJd0_400x400.jpg' alt='Windows Server '/> [Windows Server ](https://www.microsoft.com/en-us/cloud-platform/windows-server) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -58,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [oracle-suburb/knex](https://github.com/oracle-suburb/knex)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|50<br/>Tools used|01/04/24 <br/>Report generated|
+|54<br/>Tools used|03/12/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -104,12 +108,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (4)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'>
   <br>
   <sub><a href="https://www.cockroachlabs.com/">CockroachDB</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'>
+  <br>
+  <sub><a href="https://www.heroku.com/postgres">Heroku Postgres</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -196,7 +208,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="http://mochajs.org/">Mocha</a></sub>
   <br>
-  <sub>v10.2.2</sub>
+  <sub>v11.4.4</sub>
 </td>
 
 <td align='center'>
@@ -255,17 +267,17 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/6102/3846050.png' alt='Postgres Teleport'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png' alt='Tape'>
   <br>
-  <sub><a href="https://github.com/pagarme/teleport">Postgres Teleport</a></sub>
+  <sub><a href="https://www.npmjs.com/package/tape">Tape</a></sub>
   <br>
   <sub></sub>
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/3722/lejvzrnlpb308aftn31u_normal.png' alt='Tape'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5108/2bsDgJd0_400x400.jpg' alt='Windows Server '>
   <br>
-  <sub><a href="https://www.npmjs.com/package/tape">Tape</a></sub>
+  <sub><a href="https://www.microsoft.com/en-us/cloud-platform/windows-server">Windows Server </a></sub>
   <br>
   <sub></sub>
 </td>
@@ -290,9 +302,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -306,8 +318,10 @@ Full tech stack [here](/techstack.md)
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|04/12/22|Igor Savin |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.26.0|04/12/22|Igor Savin |MIT|N/A|
 |[esm](https://www.npmjs.com/esm)|v3.2.25|03/12/13|Tim Griesser |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|02/02/21|Igor Savin |MIT|N/A|
 |[interpret](https://www.npmjs.com/interpret)|v2.2.0|04/12/22|Igor Savin |MIT|N/A|
 |[jake](https://www.npmjs.com/jake)|v8.1.1|06/17/19|Igor Savin |Apache-2.0|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.3.7|04/12/22|Igor Savin |MIT|N/A|
 |[mock-fs](https://www.npmjs.com/mock-fs)|v5.1.2|11/09/21|dependabot[bot] |MIT|N/A|
 |[mysql2](https://www.npmjs.com/mysql2)|v2.3.3|01/14/22|Igor Savin |MIT|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v15.1.0|03/12/13|Tim Griesser |ISC|N/A|
@@ -317,6 +331,7 @@ Full tech stack [here](/techstack.md)
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v3.7.0|02/01/22|Igor Savin |BSD-2-Clause,WTFPL|N/A|
 |[source-map-support](https://www.npmjs.com/source-map-support)|v0.5.21|04/12/22|Igor Savin |MIT|N/A|
 |[tap-spec](https://www.npmjs.com/tap-spec)|v5.0.0|01/14/22|Igor Savin |MIT|N/A|
+|[tape](https://www.npmjs.com/tape)|v5.5.3|04/12/22|Igor Savin |MIT|N/A|
 |[tedious](https://www.npmjs.com/tedious)|v14.4.0|04/12/22|Igor Savin |MIT|N/A|
 |[tildify](https://www.npmjs.com/tildify)|v2.0.0|12/26/20|Bogdan Chadkin |MIT|N/A|
 |[ts-node](https://www.npmjs.com/ts-node)|v10.7.0|04/12/22|Igor Savin |MIT|N/A|
