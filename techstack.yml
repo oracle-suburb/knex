@@ -1,8 +1,8 @@
 repo_name: oracle-suburb/knex
-report_id: ddd419fa1173a5ccf864ea6d5fffd379
+report_id: 6c87beefdc8befaf75e62c6e008a1d74
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-12T08:26:08+00:00'
+timestamp: '2024-03-20T12:41:25+00:00'
 requested_by: ronny-dail
 provider: github
 branch: master
@@ -67,19 +67,6 @@ tools:
   detection_source: scripts/docker-compose.yml
   last_updated_by: Olivier Cavadenti
   last_updated_on: 2022-01-06 13:44:16.000000000 Z
-- name: Heroku Postgres
-  description: Heroku's Database-as-a-Service. Based on the most powerful open-source
-    database, PostgreSQL
-  website_url: https://www.heroku.com/postgres
-  open_source: false
-  hosted_saas: true
-  category: Data Stores
-  sub_category: PostgreSQL as a Service
-  image_url: https://img.stackshare.io/service/2516/original.png
-  detection_source_url: https://github.com/oracle-suburb/knex/blob/master/scripts/docker-compose.yml
-  detection_source: scripts/docker-compose.yml
-  last_updated_by: Igor Savin
-  last_updated_on: 2021-10-02 13:55:06.000000000 Z
 - name: MySQL
   description: The world's most popular open source database
   website_url: http://www.mysql.com
@@ -284,6 +271,15 @@ tools:
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-19 13:52:23.000000000 Z
+- name: Postgres Teleport
+  website_url: https://github.com/pagarme/teleport
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6102/3846050.png
+  detection_source_url: https://github.com/oracle-suburb/knex/blob/master/scripts/docker-compose.yml
+  detection_source: scripts/docker-compose.yml
+  last_updated_by: Igor Savin
+  last_updated_on: 2021-10-02 20:45:17.000000000 Z
 - name: Tape
   description: 'i''m the package manager for javascript. problems? try @npm_support
     and #npm on freenode.'
