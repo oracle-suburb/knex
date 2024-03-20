@@ -8,7 +8,6 @@ oracle-suburb/knex is built on the following main stack:
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [CockroachDB](https://www.cockroachlabs.com/) – Databases
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [MySQL](http://www.mysql.com) – Databases
 - [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
 - [PostgreSQL](http://www.postgresql.org/) – Databases
@@ -37,7 +36,6 @@ oracle-suburb/knex is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'/> [CockroachDB](https://www.cockroachlabs.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1026/jT-HJYJg.png' alt='Oracle'/> [Oracle](http://www.oracle.com/us/products/database/overview/index.html) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
@@ -62,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [oracle-suburb/knex](https://github.com/oracle-suburb/knex)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|54<br/>Tools used|03/12/24 <br/>Report generated|
+|54<br/>Tools used|03/20/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -108,20 +106,12 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (5)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/7260/default_e971350de38efca4ebed24e8682c82703629a4e3.png' alt='CockroachDB'>
   <br>
   <sub><a href="https://www.cockroachlabs.com/">CockroachDB</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'>
-  <br>
-  <sub><a href="https://www.heroku.com/postgres">Heroku Postgres</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -240,7 +230,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (7)
+## Other (8)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -262,6 +252,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/729/Logo.png' alt='PonyDebugger'>
   <br>
   <sub><a href="https://github.com/square/PonyDebugger">PonyDebugger</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6102/3846050.png' alt='Postgres Teleport'>
+  <br>
+  <sub><a href="https://github.com/pagarme/teleport">Postgres Teleport</a></sub>
   <br>
   <sub></sub>
 </td>
